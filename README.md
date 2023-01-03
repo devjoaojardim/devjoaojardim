@@ -1,8 +1,8 @@
 ### Olá Eu sou o João Victor Jardim
 
-- 🔭 Hoje eu trabalho como secretario de uma imobiliaria
-- 🌱 Estundando Android
-- 😄 Pronouns: ele/dele
+- 🔭 Hoje eu trabalho como Desenvolvedor mobile - Android
+- 🌱 Estundando Android e IOS
+
 
  <div>
   <a href="https://github.com/devjoaojardim">
