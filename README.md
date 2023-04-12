@@ -10,13 +10,15 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaojardim&layout=compact&langs_count=3&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
+ ## Ferramentas e Tecnologias
+ <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-          
+ </div>         
                           
                    
 
