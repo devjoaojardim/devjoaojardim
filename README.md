@@ -1,7 +1,7 @@
 ### Olá Eu sou o João Victor Jardim
 
-- 🔭 Hoje eu trabalho como Desenvolvedor mobile - Android
-- 🌱 Estundando Android e IOS
+- 🔭 Hoje eu trabalho como Desenvolvedor mobile
+- 🌱 Estundando como se eu não soubesse nada
 
 
  <div>
@@ -10,7 +10,16 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaojardim&layout=compact&langs_count=3&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  [![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+          
+                          
+                   
+
 
   
 </div>
